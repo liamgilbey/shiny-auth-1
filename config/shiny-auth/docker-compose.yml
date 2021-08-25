@@ -1,0 +1,6 @@
+version: "3"
+services:
+  shiny-auth:
+    image: shiny-auth:latest
+    ports:
+      - 3838:3838
