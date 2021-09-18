@@ -2,7 +2,7 @@
 
 ![](figures/post-image.png)
 
-Companion repo for part 1 of the shiny auth series. Refer to the [blog post](https://blog.gilakl.com/r-shiny-auth-i/) for an overview of the contents of this report.
+Companion repo for part 1 of the shiny auth series. Refer to the [blog post](https://blog.gilakl.com/r-shiny-auth-i/) for an overview of the contents of this repo.
 
 ## Building and Deploying
 
